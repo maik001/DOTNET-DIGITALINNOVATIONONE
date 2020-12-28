@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/DigitalInnovationOne.csproj",
-      "projectName": "DigitalInnovationOne",
-      "projectPath": "/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/DigitalInnovationOne.csproj",
+      "projectUniqueName": "/home/maikf/Documentos/dotnet-curso/DOTNET-DIGITALINNOVATIONONE/DOTNET-DIGITALINNOVATIONONE.csproj",
+      "projectName": "DOTNET-DIGITALINNOVATIONONE",
+      "projectPath": "/home/maikf/Documentos/dotnet-curso/DOTNET-DIGITALINNOVATIONONE/DOTNET-DIGITALINNOVATIONONE.csproj",
       "packagesPath": "/home/maikf/.nuget/packages/",
-      "outputPath": "/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/obj/",
+      "outputPath": "/home/maikf/Documentos/dotnet-curso/DOTNET-DIGITALINNOVATIONONE/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/maikf/.nuget/NuGet/NuGet.Config"
