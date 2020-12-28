@@ -1,0 +1,11 @@
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.deps.json
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.json
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.runtimeconfig.dev.json
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/bin/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.csprojAssemblyReference.cache
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfoInputs.cache
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.AssemblyInfo.cs
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.dll
+/home/maikf/Documentos/dotnet-curso/DigitalInnovationOne/obj/Debug/netcoreapp3.1/DigitalInnovationOne.pdb
