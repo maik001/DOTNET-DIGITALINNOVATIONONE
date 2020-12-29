@@ -4,7 +4,7 @@ namespace DOTNET_DIGITALINNOVATIONONE.Herança
     {
         
         public int x, y;
-        private int distancia;
+
 
 
 
